@@ -8,6 +8,7 @@ class MusicLibraryController
   def call
     #input = " "
      input = gets.strip
+     
     while input != "exit"
     puts "Welcome to your Music Library!"
     puts "What would you like to do?"
