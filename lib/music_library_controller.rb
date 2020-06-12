@@ -7,7 +7,7 @@ class MusicLibraryController
   end
 
   def call
-    #input = " "
+  
      input = gets.strip
      
     while input != "exit"
