@@ -11,5 +11,6 @@ class MusicLibraryController
     puts "Welcome to your Music Library!"
     puts "What would you like to do?"
     input = gets.strip
+   end
   end
 end
